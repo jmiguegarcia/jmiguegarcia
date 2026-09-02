@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jmiguegarcia
+- 👋 Hi, I’m @juanmi23g
 - 👀 I’m interested in coding webpages and landing pages
 - 🌱 I’m currently learning html, css and js
 - 💞️ I’m looking to collaborate on ...
