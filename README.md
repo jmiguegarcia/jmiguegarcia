@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @juanmi23g
+- 👋 Hi, I’m Juan Miguel
 - 👀 I’m interested in coding webpages and landing pages
-- 🌱 I’m currently learning html, css and js
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning sql, python, django
+
 
 <!---
 jmiguegarcia/jmiguegarcia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
