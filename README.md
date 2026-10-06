@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Juan Miguel
 - 👀 I’m interested in coding webpages and landing pages
-- 🌱 I’m currently learning sql, python, django
+- 🌱 I’m currently learning angular, node.js, ai, prompting
 
 
 <!---
